@@ -31,3 +31,14 @@ echo "$n2 krüpteeritult on: ".md5($n2);
 echo "<p>Näide sellest, kuidas GIT näitab muudatusi</p>";
 
 ?>
+
+<html>
+
+<body>
+    
+<img src="img/kass.jpg" alt="Kass">
+    
+</body>
+    
+
+</html>
